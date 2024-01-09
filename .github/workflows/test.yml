@@ -4,6 +4,6 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - uses: action/chekout@v3
+    - uses: actions/chekout@v3
     - name: All test
       run: bash -xv ./test.bash
