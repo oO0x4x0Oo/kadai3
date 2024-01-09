@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2023 Toshito Kimura
+# SPDX-License-Identifire: BSD-3-Clause
+
 
 import sys
 import math
