@@ -15,7 +15,7 @@ $ chmod +x trig_calculator.py
 ```
 
 # 実行方法
-ファイル名の後ろに三角関数の種類（sine : s, cos : c, tan : t）を入力し、次に角度を入力する.
+ファイル名の後ろに三角関数の種類（sin : s, cos : c, tan : t）を入力し、次に角度を入力する.
 ```
 $ ./trig_calculator.py s 30
 sin 30.0(deg) = 0.500
