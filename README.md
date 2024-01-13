@@ -6,16 +6,16 @@
 
 # インストール方法
 ```
-$ git clone https://github.com/oO0x4x0Oo/kadai3.git
+$ git clone https://github.com/oO0x4x0Oo/trig_calculator.git
 ```
 実行権限の付与
 ```
-$ cd kadai3
+$ cd trig_calculator
 $ chmod +x trig_calculator
 ```
 
 # 実行方法
-ファイルを実行し、角度を入力する.
+コマンドを実行し、角度を入力する.
 ```
 $ ./trig_calculator
 Enter angle in degrees: 30
